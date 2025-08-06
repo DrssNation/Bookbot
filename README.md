@@ -1,2 +1,3 @@
-# Bookbot
-python bookbot project using gemini ai
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
